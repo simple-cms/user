@@ -1,5 +1,4 @@
-<?php namespace SimpleCMS\User;
-
+<?php namespace SimpleCms\User;
 
 use SimpleCms\Core\BaseController;
 use Illuminate\Contracts\Auth\Authenticator;
